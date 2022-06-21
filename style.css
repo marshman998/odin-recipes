@@ -1,0 +1,30 @@
+.background {
+    background-color: rgb(176, 220, 231);
+}
+
+.header {
+    color: maroon;
+    text-align: center;
+}
+
+/* This attempt to center recipes list on homepage does not work, to be fixed later */
+ul.recipes {
+    text-align: center;
+}
+
+.recipes li {
+    display: inline-block;
+}
+/* End of block to be fixed */
+
+.text {
+    color:rgb(17, 9, 88)
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
